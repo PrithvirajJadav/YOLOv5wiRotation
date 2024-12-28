@@ -1,0 +1,5 @@
+train: ./data1/train/images
+val: ./data1/valid/images
+
+nc: 16
+names: ['armchair','bed','door1','door2','sink1','sink2','sink3','sink4','sofa1','sofa2','table1','table2','table3','tub','window1','window2']
